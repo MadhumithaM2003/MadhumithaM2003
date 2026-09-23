@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhumitha
 - 👀 I’m interested in Data analytics
-- 🌱 I’m currently learning python 
+- 🌱 I’m comfortable with Excel, Python, SQL, Power BI
 - 💞️ I’m looking to collaborate on MNC
 - 📫 How to reach me vijimadhumitha2@gmail.com
 - 😄 Pronouns: ...
